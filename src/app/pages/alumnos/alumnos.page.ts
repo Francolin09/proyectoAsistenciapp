@@ -19,6 +19,7 @@ export class AlumnosPage implements OnInit {
 
   ngOnInit() {
     this.dataService.getBddusus().subscribe(users =>{
+      
 
       
 
